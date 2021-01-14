@@ -42,8 +42,8 @@
 | 运输   | 易于携带                                                             |                                                             |
 ***
 方案比较<br>
-  ![方案一](image/5.jpg)
-  ![方案二](image/6.jpg)
+![Image text](image/5.jpg)
+![Image text](image/6.jpg)
 
 | 评价标准 | 方案一 | 方案二 |
 | -------- | --------- | --------- |
