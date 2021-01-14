@@ -42,8 +42,10 @@
 | 运输   | 易于携带                                                             |                                                             |
 ***
 方案比较<br>
-![Image text](image/5.jpg)
-![Image text](image/6.jpg)
+项链式<br>
+![方案一](https://github.com/SWJTU-i2e-2020/11-Health-Monitor/blob/main/image/5.jpg)
+手表式<br>
+![方案二](https://github.com/SWJTU-i2e-2020/11-Health-Monitor/blob/main/image/6.jpg)
 
 | 评价标准 | 方案一 | 方案二 |
 | -------- | --------- | --------- |
